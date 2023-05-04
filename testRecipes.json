@@ -1,0 +1,22 @@
+[
+  {
+      "recipe_id": 165815,
+      "name": "Aglio e oilo",
+      "keywords": null,
+      "category": "Pâtes",
+      "dateCreated": "2023-04-10 08:36:02",
+      "dateModified": "2023-04-10 11:16:54",
+      "imageUrl": "/index.php/apps/cookbook/webapp/recipes/165815/image?size=thumb",
+      "imagePlaceholderUrl": "/index.php/apps/cookbook/webapp/recipes/165815/image?size=thumb16"
+  },
+  {
+      "recipe_id": 165727,
+      "name": "Pain (style baguette, hydratation haute)",
+      "keywords": "48h,Baguette,Farine T110,Farine T65,Fermentation longue,Mélange de farines,Pain",
+      "category": "Pain",
+      "dateCreated": "2023-04-10 07:16:01",
+      "dateModified": "2023-04-10 08:08:34",
+      "imageUrl": "/index.php/apps/cookbook/webapp/recipes/165727/image?size=thumb",
+      "imagePlaceholderUrl": "/index.php/apps/cookbook/webapp/recipes/165727/image?size=thumb16"
+  }
+]

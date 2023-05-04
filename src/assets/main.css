@@ -1,0 +1,16 @@
+@import './base.css';
+
+#app {
+  padding: 2rem;
+}
+
+@media (max-width: 1024px) {
+  #app {
+    padding: 1rem;
+  }
+}
+
+:root {
+  --color-background: #121212;
+  --color-text: #FFFFFF;
+}
